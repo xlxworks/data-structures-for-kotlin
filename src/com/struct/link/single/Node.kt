@@ -1,4 +1,4 @@
-package com.struct.link
+package com.struct.link.single
 
 data class Node<T>(val value:T) {
     var next: Node<T>? = null

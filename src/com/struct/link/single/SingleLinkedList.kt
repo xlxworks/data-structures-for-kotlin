@@ -1,5 +1,6 @@
-package com.struct.link
+package com.struct.link.single
 
+import com.struct.link.ILink
 import java.lang.IllegalArgumentException
 
 /**
